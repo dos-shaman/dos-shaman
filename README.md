@@ -16,6 +16,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dos-shaman&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dos-shaman&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos-shaman&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 ![Snake animation](https://github.com/dos-shaman/dos-shaman/blob/output/github-contribution-grid-snake.svg)
