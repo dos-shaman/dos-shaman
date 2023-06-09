@@ -16,4 +16,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dos-shaman" alt="dos-shaman" /></a> </p>
 
-<! --![Snake animation](https://github.com/dos-shaman/dos-shaman/blob/output/github-contribution-grid-snake.svg)
+<! --![Snake animation](https://github.com/dos-shaman/dos-shaman/blob/output/github-contribution-grid-snake.svg) --!>
